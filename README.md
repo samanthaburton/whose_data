@@ -13,6 +13,7 @@ This document (the README file) is the best place to get an overview of the proj
 * [Who are you?](#who-are-you)
 * [What do you need?](#what-do-you-need)
 * [How can I get involved?](#get-involved)
+* [Code of Conduct](https://github.com/samanthaburton/whose_data/blob/master/CODE_OF_CONDUCT.md)
 
 ## What is this?
 
@@ -56,9 +57,9 @@ In more specialized realms, it would be wonderful to have support from people wi
 **I’d also love your feedback along the way**, especially if you’re a concerned Canadian, journalist, advocate -- or all of the above! :maple_leaf:
 
 ## Get involved
-If you'd like to help in any of the ways listed above -- or in any of the infinate ways I haven't thought of yet! -- then please check out the contributors' guidelines (coming soon) and the roadmap (coming soon).
+If you'd like to help in any of the ways listed above -- or in any of the infinate ways I haven't thought of yet! -- then please check out the [roadmap](https://github.com/samanthaburton/whose_data/issues/19) and contributors' guidelines (coming soon).
 
-Please note that maintaining a positive and supportive environment for everyone who wants to participate is absolutely essential. When you join, please respect the code of conduct (coming soon) in all interactions on and offline.
+Please note that maintaining a positive and supportive environment for everyone who wants to participate is absolutely essential. When you join, please respect the [code of conduct](https://github.com/samanthaburton/whose_data/blob/master/CODE_OF_CONDUCT.md) in all interactions on and offline.
 
 ## Thank you! Merci! :purple_heart::heart::blue_heart::green_heart:
 Thanks so much for visiting the Whose Data? project! I hope that you'll join the journey to make it easier for Canadians to understand who owns -- and what options we have to control -- our data. 
