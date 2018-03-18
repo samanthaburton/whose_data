@@ -1,0 +1,14 @@
+# Site settings
+title: Whose Data?
+email:
+description: >
+    Whose Data? aims to make it easier for Canadians to answer key questions about who owns -- and what options we have to control -- data collected about us via common online and offline activities.
+baseurl: ""
+url: "https://samanthaburton.github.io/whose_data"
+twitter_username: whosedata
+github_username:  samanthaburton
+
+# Build settings
+markdown: kramdown
+
+include: ['_pages']
