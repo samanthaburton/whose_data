@@ -12,3 +12,5 @@ github_username:  samanthaburton
 markdown: kramdown
 
 include: ['_pages']
+
+theme: jekyll-theme-minimal
