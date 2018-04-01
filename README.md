@@ -58,13 +58,13 @@ Please note that maintaining a positive and supportive environment for everyone 
 
 Here’s what you can do, right now:
 
-### I have 2 minutes
+#### I have 2 minutes
 
 - Tell us: what other organizations or companies would you like to learn about?
 - Tell us: what other questions about your data would you like us to research?
 - Share Whose Data? on social media!
 
-### I have an hour
+#### I have an hour
 
 - Open a new case: do some desk/online research about a company or organization
 - Help verify an open case: contact the company or organization, to request more information or verification
@@ -72,7 +72,7 @@ Here’s what you can do, right now:
 - Are you a journalist or advocate? Help improve the project, by sharing your feedback
 - Are you a concerned Canadian? Help improve the project, by sharing your feedback
 
-## I have a few hours a month, and experience in:
+#### I have a few hours a month, and experience in:
 
 - Project management
 - Volunteer recruitment/community management
@@ -84,7 +84,7 @@ Here’s what you can do, right now:
 - Communications
 - something else that would be useful!
 
-## I have an idea!
+#### I have an idea!
 
 If you'd like to help in any of the ways listed above -- or in any of the infinate ways I haven't thought of yet! -- then please also out the [roadmap](https://github.com/samanthaburton/whose_data/issues/19) and contributors' guidelines (coming soon).
 
