@@ -11,7 +11,7 @@ This document (the README file) is the best place to get an overview of the proj
 
 * [What is this?](#what-is-this)
 * [How does it work?](#how-does-it-work)
-* [How can I help?](#how-can-I-help)
+* [How can I help?](#how-can-i-help)
 * [Who are you?](#who-are-you)
 * [Code of Conduct](https://github.com/samanthaburton/whose_data/blob/master/CODE_OF_CONDUCT.md)
 
