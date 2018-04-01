@@ -19,47 +19,78 @@ This document (the README file) is the best place to get an overview of the proj
 ## What is this?
 
 ### The problem
-Every day, we ‘like’ posts on social media, check apps to see when the next bus is coming, tap our credit cards, walk past security cameras... and the river of information generated and stored about us swells.
 
-This data may be about me, but whose is it, really? What control over it and its use do I have? 
+It’s time consuming and complicated for Canadians to find good information about who owns and uses data that is commonly collected about us — and what options we have to take control of it.
 
-It’s time consuming and complicated for Canadians to find good information about who owns and uses data that is commonly collected about us -- and what options we have to take control of it.
+Every day, we ‘like’ posts on social media, check apps to see when the next bus is coming, tap our credit cards, walk past security cameras… and the river of information generated and stored about us swells.
 
-And without a shared understanding, it’s hard to have informed discussions and make decisions about the way *we actually want* ownership and control of our data to work.
+This data may be about me, but whose is it, really?
+What control over it and its use do I have?
+
+Without a shared understanding, it’s hard to have informed discussions and make decisions about the way we actually want ownership and control of our data to work.
 
 ### The solution
-Whose Data? aims to make it easier for Canadians to answer key questions about who owns -- and what options we have to control -- data collected about us via common online (eg. social media platforms) and offline (eg. health records) activities.
+Whose Data? helps solve this problem by putting information about who owns — and what options we have to control — data collected about Canadians in one place.
 
 ## How does it work?
 
-For each company or organization we research, we're aiming to answer two questions: 
+For each company or organization we research, we aim to answer two questions:
+
 (1) Do I legally own the data this org has about me?
 (2) Can I see all the data they have about me, for free?
 
 We may add more questions in the future!
 
-We aim to have the information about every company/organization verified through 3 types of research:
+*We call a company or organization we’re researching a ‘case’.*
+
+We aim to have each case verified through 3 types of research:
 - [ ] secondary research (aka surfing the web)
 - [ ] primary research (aka contacting the company/organization directly)
 - [ ] expert review (aka feedback from an expert in the field, such as law or policy)
 
-Once secondary research is available, information about an organization can be put up on the website -- www.whosedata.ca -- but it won't be labeled verified :white_check_mark: until 3/3 types of research have been completed.
+Once secondary research is available, a case can be put up on the website -- www.whosedata.ca -- but it won't be verified :white_check_mark: until 3/3 types of research have been completed.
 
-## What do you need?
-**You!** Any way you can contribute is welcome and appreciated. :pray:
+## How can I help?
+Whose Data? is an open source project, and we need people like you to help grow and improve!
 
-If you want it to help make it easier for Canadians to find out who owns our data and how we can control the ways it’s used (or not), Whose Data? can use your help.
-
-I'm particularly looking for support with **writing**, **research**, **web design**, and **data visualization**.
-
-In more specialized realms, it would be wonderful to have support from people with expertise in **data protection and privacy policy and/or law** -- especially in Canada. I also have ideas for a future phase of the project that would involve collaborating with UX or interaction designers and possibly illustrators.
-
-**I’d also love your feedback along the way**, especially if you’re a concerned Canadian, journalist, advocate -- or all of the above! :maple_leaf:
-
-## Get involved
-If you'd like to help in any of the ways listed above -- or in any of the infinate ways I haven't thought of yet! -- then please check out the [roadmap](https://github.com/samanthaburton/whose_data/issues/19) and contributors' guidelines (coming soon).
+If you want it to help make it easier for Canadians to find out who owns our data, there’s something you can do to contribute.
 
 Please note that maintaining a positive and supportive environment for everyone who wants to participate is absolutely essential. When you join, please respect the [code of conduct](https://github.com/samanthaburton/whose_data/blob/master/CODE_OF_CONDUCT.md) in all interactions on and offline.
+
+Here’s what you can do, right now:
+
+### I have 2 minutes
+
+- Tell us: what other organizations or companies would you like to learn about?
+- Tell us: what other questions about your data would you like us to research?
+- Share Whose Data? on social media!
+
+### I have an hour
+
+- Open a new case: do some desk/online research about a company or organization
+- Help verify an open case: contact the company or organization, to request more information or verification
+- Are you a policy or legal expert? Help verify an open case by reviewing and sharing feedback
+- Are you a journalist or advocate? Help improve the project, by sharing your feedback
+- Are you a concerned Canadian? Help improve the project, by sharing your feedback
+
+## I have a few hours a month, and experience in:
+
+- Project management
+- Volunteer recruitment/community management
+- Policy (especially data protection or privacy policy in Canada)
+- Law (especially data protection or privacy policy in Canada)
+- Web design
+- Data visualization
+- UX or interaction design
+- Communications
+- something else that would be useful!
+
+## I have an idea!
+
+
+If you'd like to help in any of the ways listed above -- or in any of the infinate ways I haven't thought of yet! -- then please also out the [roadmap](https://github.com/samanthaburton/whose_data/issues/19) and contributors' guidelines (coming soon).
+
+**I’d also love your feedback along the way**, especially if you’re a concerned Canadian, journalist, advocate -- or all of the above! :maple_leaf:
 
 ## Who are you?
 Hi, I'm [Sam](https://www.samanthaburton.com)! I live in Toronto, and I’m fascinated by the influence of technology in my life and in my communities.
