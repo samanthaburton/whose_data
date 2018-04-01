@@ -11,8 +11,7 @@ This document (the README file) is the best place to get an overview of the proj
 
 * [What is this?](#what-is-this)
 * [How does it work?](#how-does-it-work)
-* [What do you need?](#what-do-you-need)
-* [How can I get involved?](#get-involved)
+* [How can I help?](#how-can-I-help)
 * [Who are you?](#who-are-you)
 * [Code of Conduct](https://github.com/samanthaburton/whose_data/blob/master/CODE_OF_CONDUCT.md)
 
@@ -86,7 +85,6 @@ Here’s what you can do, right now:
 - something else that would be useful!
 
 ## I have an idea!
-
 
 If you'd like to help in any of the ways listed above -- or in any of the infinate ways I haven't thought of yet! -- then please also out the [roadmap](https://github.com/samanthaburton/whose_data/issues/19) and contributors' guidelines (coming soon).
 
