@@ -60,7 +60,7 @@ Here’s what you can do, right now:
 
 #### I have 2 minutes
 
-- Tell us: what other organizations or companies would you like to learn about?
+- [Tell us: what other companies, services, or organizations should we research?](https://github.com/samanthaburton/whose_data/issues/21)
 - Tell us: what other questions about your data would you like us to research?
 - Share Whose Data? on social media!
 
