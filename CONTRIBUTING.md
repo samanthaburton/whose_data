@@ -36,6 +36,6 @@ You should also have a look at the [Project Roadmap](https://github.com/samantha
 - Communications
 - something else that would be useful!
 
-#### I have an idea!
-We'd love to hear it! 
+#### I have a question, suggestion or idea!
+We'd love to hear it! [Head over here to share.](https://github.com/samanthaburton/whose_data/issues/22)
 
