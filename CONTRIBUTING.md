@@ -10,7 +10,7 @@ You should also have a look at the [Project Roadmap](https://github.com/samantha
 
 ## Ok, now you're ready! Here’s how you can help, right now:
 
-#### I have 2 minutes
+#### I have 2 minutes (these are also great options if you're a 1st time contributor)
 
 - [Tell us: what other companies, services, or organizations should we research?](https://github.com/samanthaburton/whose_data/issues/21)
 - [Tell us: what other questions about your data would you like us to research?](https://github.com/samanthaburton/whose_data/issues/20)
