@@ -56,7 +56,7 @@ If you want it to help make it easier for Canadians to find out who owns our dat
 
 Please note that maintaining a positive and supportive environment for everyone who wants to participate is absolutely essential. When you join, please respect the [code of conduct](https://github.com/samanthaburton/whose_data/blob/master/CODE_OF_CONDUCT.md) in all interactions on and offline.
 
-There are many ways to contribute -- visit the [Contributor Guidelines](https://github.com/samanthaburton/whose_data/edit/master/CONTRIBUTING.md) to learn more.
+**There are lots of ways to contribute: check out the [Contributor Guidelines](https://github.com/samanthaburton/whose_data/edit/master/CONTRIBUTING.md) to learn more.**
 
 ## Who are you?
 Hi, I'm [Sam](https://www.samanthaburton.com)! I live in Toronto, and I’m fascinated by the influence of technology in my life and in my communities.
