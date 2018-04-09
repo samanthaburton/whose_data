@@ -18,7 +18,7 @@ You should also have a look at the [Project Roadmap](https://github.com/samantha
 
 #### I have an hour
 
-- Open a new case: do some desk/online research about a company or organization
+- [Open a new case](https://github.com/samanthaburton/whose_data/issues/13): do some desk/online research about a company or organization
 - Help verify an open case: contact the company or organization, to request more information or verification
 - Are you a policy or legal expert? Help verify an open case by reviewing and sharing feedback
 - Are you a journalist or advocate? Help improve the project, by sharing your feedback
