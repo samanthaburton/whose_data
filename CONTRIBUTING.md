@@ -30,9 +30,9 @@ You should also have a look at the [Project Roadmap](https://github.com/samantha
 - Volunteer recruitment/community management
 - Policy (especially data protection or privacy policy in Canada)
 - Law (especially data protection or privacy policy in Canada)
-- Web design
-- Data visualization
-- UX or interaction design
+- [Web design](https://github.com/samanthaburton/whose_data/issues/24)
+- [Data visualization](https://github.com/samanthaburton/whose_data/issues/24)
+- [UX or interaction design](https://github.com/samanthaburton/whose_data/issues/24)
 - Communications
 - something else that would be useful!
 
