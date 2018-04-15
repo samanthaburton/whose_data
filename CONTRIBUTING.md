@@ -26,15 +26,15 @@ You should also have a look at the [Project Roadmap](https://github.com/samantha
 
 #### I have a few hours a month, and experience in:
 
-- Project management
-- Volunteer recruitment/community management
-- Policy (especially data protection or privacy policy in Canada)
-- Law (especially data protection or privacy policy in Canada)
+- [Project management](https://github.com/samanthaburton/whose_data/issues/27)
+- [Volunteer recruitment/community management](https://github.com/samanthaburton/whose_data/issues/27)
+- [Policy](https://github.com/samanthaburton/whose_data/issues/27) (especially data protection or privacy policy in Canada)
+- [Law](https://github.com/samanthaburton/whose_data/issues/27) (especially data protection or privacy policy in Canada)
 - [Web design](https://github.com/samanthaburton/whose_data/issues/24)
 - [Data visualization](https://github.com/samanthaburton/whose_data/issues/24)
 - [UX or interaction design](https://github.com/samanthaburton/whose_data/issues/24)
-- Communications
-- something else that would be useful!
+- [Communications](https://github.com/samanthaburton/whose_data/issues/27)
+- [something else that would be useful!](https://github.com/samanthaburton/whose_data/issues/27)
 
 #### I have a question, suggestion or idea!
 We'd love to hear it! [Head over here to share.](https://github.com/samanthaburton/whose_data/issues/22)
