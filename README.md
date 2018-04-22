@@ -31,6 +31,10 @@ Without a shared understanding, it’s hard to have informed discussions and mak
 ### The solution
 Whose Data? helps solve this problem by putting information about who owns — and what options we have to control — data collected about Canadians in one place.
 
+**Making the this information more accessible won't change our habits, company practices or government policies by themselves.** But it can help increase the nubmer of Canadians who understand of the current state of affairs, and have informed opinions about _what we want_ when it comes to how our personal data is treated. 
+
+That means more Canadians who are ready and able to help build the connected worled we want, by engaging in important discussions -- like how we want [data collcted about us by 'smart cities'](http://www.cbc.ca/news/technology/sidewalk-labs-toronto-neighbourhood-alphabet-google-privacy-1.4585534) to be protected and [what informed consent about personal data collection](http://www.businessinsider.com/mark-zuckerberg-congressional-hearings-informed-consent-2018-4) really means in our digital society. 
+
 ## How does it work?
 
 For each company or organization we research, we aim to answer two questions:
@@ -38,7 +42,7 @@ For each company or organization we research, we aim to answer two questions:
 (1) Do I legally own the data this org has about me?
 (2) Can I see all the data they have about me, for free?
 
-We may add more questions in the future!
+We may add more questions in the future.
 
 *We call a company or organization we’re researching a ‘case’.*
 
