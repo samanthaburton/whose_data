@@ -57,7 +57,7 @@ Before the Global Sprint, *Whose Data?* had completed secondary research (aka re
 - [Volunteer recruitment/community management](https://github.com/samanthaburton/whose_data/issues/27)
 - [Policy](https://github.com/samanthaburton/whose_data/issues/27) (especially data protection or privacy policy in Canada)
 - [Law](https://github.com/samanthaburton/whose_data/issues/27) (especially data protection or privacy policy in Canada)
-- [Web design](https://github.com/samanthaburton/whose_data/issues/24)
+- [Web & visual design](https://github.com/samanthaburton/whose_data/issues/24)
 - [Data visualization](https://github.com/samanthaburton/whose_data/issues/24)
 - [UX or interaction design](https://github.com/samanthaburton/whose_data/issues/24)
 - [Communications](https://github.com/samanthaburton/whose_data/issues/27)
