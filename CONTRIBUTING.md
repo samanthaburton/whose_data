@@ -2,7 +2,7 @@
 # Contributing to Whose Data?
 Thanks so much for your interest in contributing! 
 
-**Whose Data?* is an open source project that aims to make it easier for Canadians to answer key questions about who owns -- and what options we have to control -- data collected about us** via common online (eg. social media platforms) and offline (eg. health records) activities.
+***Whose Data?* is an open source project that aims to make it easier for Canadians to answer key questions about who owns -- and what options we have to control -- data collected about us** via common online (eg. social media platforms) and offline (eg. health records) activities.
 
 We need people like you to help grow and improve the project. If you want it to help make it easier for Canadians to find out who owns our data, there’s something you can do to contribute.
 
