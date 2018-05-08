@@ -1,14 +1,40 @@
 
 # Contributing to Whose Data?
-Thanks so much for your interest in contributing!
+Thanks so much for your interest in contributing! 
 
-Whose Data? is an open source project, and we need people like you to help grow and improve it. If you want it to help make it easier for Canadians to find out who owns our data, there’s something you can do to contribute.
+*Whose Data?* is an open source project, and we need people like you to help grow and improve it. 
 
-**First things first: please read the [Code of Conduct.](https://github.com/samanthaburton/whose_data/blob/master/CODE_OF_CONDUCT.md)** Maintaining a positive and supportive environment for everyone who wants to participate is absolutely essential. When you join, please respect the code of conduct in all interactions on and offline.
+If you want it to help make it easier for Canadians to find out who owns our data, there’s something you can do to contribute.
+
+**First things first: please read the [README](https://github.com/samanthaburton/whose_data/blob/master/README.md) and the [Code of Conduct.](https://github.com/samanthaburton/whose_data/blob/master/CODE_OF_CONDUCT.md)** Maintaining a positive and supportive environment for everyone who wants to participate is absolutely essential. When you join, please respect the code of conduct in all interactions on and offline.
 
 You should also have a look at the [Project Roadmap](https://github.com/samanthaburton/whose_data/issues/19), so you know where we're at in development. 
 
-## Ok, now you're ready! Here’s how you can help, right now:
+## Ok, now you're ready! Here's how you can help right now:
+
+#### :sparkles: [Global Sprint](mzl.la/global-sprint) Challenge :sparkles:
+
+The 2018 Global Sprint runs from May 10-11, and **our goal is to double the number of organizations *Whose Data?* has researched**. 
+
+A company or organization that *Whose Data?* is researching is called a ‘case’. We're aiming to answer two questions about each case:
+
+1. Do I legally own the data this org has about me?
+2. Can I see all the data they have about me, for free?
+
+Before the Global Sprint, *Whose Data?* had completed secondary research (aka research you can do at a desk) on 6 cases. [You can see them here.](https://www.whosedata.ca/research-overview/) Help us get to 12 by the end of the Sprint!
+
+:trophy: GLOBAL SPRINT GOAL: 12 *Whose Data?* cases researched
+
+:sweat_smile: CURRENT: 6 
+
+**Here's what you can do:**
+- [Help verify an open case](https://github.com/samanthaburton/whose_data/issues/25) : Some cases have been started, but need more research to be complete. We're prioritizing secondary research (aka desk research) for the Global Sprint - there are instructions on how to help with secondary research [here](https://github.com/samanthaburton/whose_data/issues/25). 
+
+- [Open a new case](https://github.com/samanthaburton/whose_data/issues/13): take charge, and pick a new company or organization to do some initial research on! There are instructions on how to open a new case [here](https://github.com/samanthaburton/whose_data/issues/13).
+
+- [Share your questions or ideas!](https://github.com/samanthaburton/whose_data/issues/22) I'd love to hear what you think about the project, and any suggestions you have to make it better.
+
+## Other ways you can help
 
 #### I have 2 minutes (these are also great options if you're a 1st time contributor)
 
