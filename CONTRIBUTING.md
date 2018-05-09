@@ -33,6 +33,8 @@ Before the Global Sprint, *Whose Data?* had completed secondary research (aka re
 
 - [Open a new case](https://github.com/samanthaburton/whose_data/issues/13): take charge, and pick a new company or organization to do some initial research on! There are instructions on how to open a new case [here](https://github.com/samanthaburton/whose_data/issues/13).
 
+- [Contribute to the Jargon Dictionary](https://github.com/samanthaburton/whose_data/issues/28): if you're doing research about personal data, reading Terms of Service and Privay Policies, you're likely to encounter jargon you may not be familiar with -- which could make finding the information _Whose Data?_ is looking for difficult. Encountered a term you don't know? Add it here! Have experience with personal data or privacy & security? Share a definition!
+
 - [Share your questions or ideas!](https://github.com/samanthaburton/whose_data/issues/22) I'd love to hear what you think about the project, and any suggestions you have to make it better.
 
 ## Other ways you can help
@@ -40,7 +42,8 @@ Before the Global Sprint, *Whose Data?* had completed secondary research (aka re
 #### I have 2 minutes (these are also great options if you're a 1st time contributor)
 
 - [Tell us: what other companies, services, or organizations should we research?](https://github.com/samanthaburton/whose_data/issues/21)
-- [Tell us: what other questions about your data would you like us to research?](https://github.com/samanthaburton/whose_data/issues/20)
+- [Tell us: what other questions about your data would you like us to research?](https://github.com/samanthaburton/whose_data/issues/20)\
+- [Contribute to the Jargon Dictionary](https://github.com/samanthaburton/whose_data/issues/28): if you're doing research about personal data, reading Terms of Service and Privay Policies, you're likely to encounter jargon you may not be familiar with -- which could make finding the information _Whose Data?_ is looking for difficult. Encountered a term you don't know? Add it here! Have experience with personal data or privacy & security? Share a definition!
 - Share Whose Data? on social media!
 
 #### I have an hour
