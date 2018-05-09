@@ -37,7 +37,7 @@ Before the Global Sprint, *Whose Data?* had completed secondary research (aka re
 
 - [Share your questions or ideas!](https://github.com/samanthaburton/whose_data/issues/22) I'd love to hear what you think about the project, and any suggestions you have to make it better.
 
-**And please say hi! You can find me on the [Global Sprint glitter chat](https://gitter.im/mozilla/global-sprint) and [Twitter](https://www.twitter.com/thesamburton) from 9-5 EST on May 10 & 11!**
+**And please say hi! You can find me (Sam) on the [Global Sprint glitter chat](https://gitter.im/mozilla/global-sprint) and [Twitter](https://www.twitter.com/thesamburton) from 9-5 EST on May 10 & 11!**
 
 ## Other ways you can help
 
