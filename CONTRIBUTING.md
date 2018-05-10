@@ -26,7 +26,7 @@ Before the Global Sprint, *Whose Data?* had completed secondary research (aka re
 
 :trophy: GLOBAL SPRINT GOAL: 12 *Whose Data?* cases researched
 
-:sweat_smile: CURRENT: 6 
+:sweat_smile: CURRENT: 8 (UPDATED May 10 @ 10:25am)
 
 **Here's what you can do:**
 - [Help verify an open case](https://github.com/samanthaburton/whose_data/issues/25) : Some cases have been started, but need more research to be complete. We're prioritizing secondary research (aka desk research) for the Global Sprint - there are instructions on how to help with secondary research [here](https://github.com/samanthaburton/whose_data/issues/25). 
