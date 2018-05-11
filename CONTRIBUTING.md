@@ -18,7 +18,7 @@ You should also have a look at the [Project Roadmap](https://github.com/samantha
 - [Tell us: what other companies, services, or organizations should we research?](https://github.com/samanthaburton/whose_data/issues/21)
 - [Tell us: what other questions about your data would you like us to research?](https://github.com/samanthaburton/whose_data/issues/20)
 - [Suggest changes, updates, or add information to a case](https://github.com/samanthaburton/whose_data/issues/40) Find a typo? Have a piece of info we should add? 
-- [Contribute to the Jargon Dictionary](https://github.com/samanthaburton/whose_data/issues/28) Encountered a term you don't know? Add it here! Have experience with personal data or privacy & security? Share a definition!
+- [Contribute to the Jargon Dictionary](https://github.com/samanthaburton/whose_data/issues/28) See a term you don't know? Look it up here! Don't find it? Add it? Have experience with personal data or privacy & security? Share a definition!
 - Share Whose Data? on social media
 
 #### I have an hour
