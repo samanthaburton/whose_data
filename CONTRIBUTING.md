@@ -13,10 +13,11 @@ You should also have a look at the [Project Roadmap](https://github.com/samantha
 
 ## Ok, now you're ready! Here's how you can help right now:
 
-#### I have 2 minutes (these are also great options if you're a 1st time contributor)
+#### I have 2 minutes (great options for 1st time contributors!)
 
 - [Tell us: what other companies, services, or organizations should we research?](https://github.com/samanthaburton/whose_data/issues/21)
-- [Tell us: what other questions about your data would you like us to research?](https://github.com/samanthaburton/whose_data/issues/20)\
+- [Tell us: what other questions about your data would you like us to research?](https://github.com/samanthaburton/whose_data/issues/20)
+- [Suggest changes, updates, or add information to a case](https://github.com/samanthaburton/whose_data/issues/40) Find a typo? Have a piece of info we should add? 
 - [Contribute to the Jargon Dictionary](https://github.com/samanthaburton/whose_data/issues/28) Encountered a term you don't know? Add it here! Have experience with personal data or privacy & security? Share a definition!
 - Share Whose Data? on social media
 
