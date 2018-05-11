@@ -14,3 +14,13 @@ The [Office of the Privacy Commissioner of Canada](https://www.priv.gc.ca/en/pri
 But [a recent Citizen Lab study](https://citizenlab.ca/2018/02/approaching-access-look-consumer-personal-data-requests-canada/), where participants issued DARs to 23 Canadian companies including nine telecommunication service providers, found that all companies contacted charged a fee participants to access their own SMS or call records.
 
 Prices varied by provider, [ranging from](https://citizenlab.ca/2018/02/approaching-access-look-consumer-personal-data-requests-canada/) CAD $15 per month of data requested (Rogers) to $100 per month of data requested (Fido). If you feel that you're being charged an unreasonable fee, you have the right to [file a complaint](https://www.priv.gc.ca/en/report-a-concern/file-a-formal-privacy-complaint/) with the Privacy Commissioner.
+
+### Research Status
+
+| Status  | *THIS CASE IS NOT VERIFIED* |
+| ------------- |------------- |
+| secondary research | :heavy_check_mark: |
+| primary research | :x: |
+| expert review | :x: |
+
+*Help make this a verified case! Check out the [Contributors Guidelines](https://github.com/samanthaburton/whose_data/blob/master/CONTRIBUTING.md) to learn how*
