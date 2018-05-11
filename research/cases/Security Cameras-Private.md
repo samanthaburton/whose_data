@@ -11,3 +11,13 @@ Covert video surveillance -- that is where you don't know you're being filmed --
 You legally have the right to request access to any video footage of you, so long as this is possible without infringing on the privacy rights of other people in the footage.
 
 "Individuals have the right to access images relating to them.  When disclosing recordings to individuals who appear in them, the organization must ensure that identifying information about any other individuals on the recording is not revealed. This can be done through technologies that mask identity." ([Office of the Privacy Commissioner](https://www.priv.gc.ca/en/privacy-topics/surveillance-and-monitoring/gl_vs_080306/))
+
+### Research Status
+
+| Status  | *THIS CASE IS NOT VERIFIED* |
+| ------------- |------------- |
+| secondary research | :heavy_check_mark: |
+| primary research | :x: |
+| expert review | :x: |
+
+*Help make this a verified case! Check out the [Contributors Guidelines](https://github.com/samanthaburton/whose_data/blob/master/CONTRIBUTING.md) to learn how*
