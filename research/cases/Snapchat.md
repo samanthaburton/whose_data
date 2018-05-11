@@ -16,7 +16,7 @@ _" We may reject a request for a number of reasons, including, for example, that
 | Status  | *THIS CASE IS NOT VERIFIED* |
 | ------------- |------------- |
 | secondary research | :heavy_check_mark: |
-| primary research | :x: |
+| primary research | :x: [@ghulamusman](https://github.com/ghulamusman) emailed Snapchat, waiting for reply |
 | expert review | :x: |
 
 *Help make this a verified case! Check out the [Contributors Guidelines](https://github.com/samanthaburton/whose_data/blob/master/CONTRIBUTING.md) to learn how*
