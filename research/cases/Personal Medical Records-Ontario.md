@@ -19,3 +19,13 @@ You can ask your doctor, clinic or hospital if there is a procedure for requesti
 **Your health records are currently _not_ available online.** 
 
 [eHealth Ontario says](https://www.ehealthontario.on.ca/ehr/accessing-your-ehr) that it is working with Ontario's Ministry of Health and Long-Term Care’s [Patient First Strategy](http://www.health.gov.on.ca/en/ms/ecfa/healthy_change/) to "look at ways to provide patient access electronically in the near future." It's unclear whether there will be a fee to access your electronic health record online, once that option is available.
+
+### Research Status
+
+| Status  | *THIS CASE IS NOT VERIFIED* |
+| ------------- |------------- |
+| secondary research | :heavy_check_mark: |
+| primary research | :x: |
+| expert review | :x: |
+
+*Help make this a verified case! Check out the [Contributors Guidelines](https://github.com/samanthaburton/whose_data/blob/master/CONTRIBUTING.md) to learn how*
