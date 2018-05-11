@@ -14,3 +14,13 @@ There is no way to access your credit score for free, as it not part of a regula
 There are two national credit bureaus in Canada: Equifax Canada and TransUnion Canada. Each will have a credit score for you, and [experts recommend](http://www.cbc.ca/news/canada/how-to-check-your-credit-report-1.1185975) you check both.
 
 At the time of writing, to access your credit score [Equifax charges CAD $23.95](https://www.consumer.equifax.ca/credit-score-ca/en_ca) and [TransUnion charges CAD $19.95 per month](https://members.transunion.ca/tucan_en/orderStep1_form.page?offer=CANTUM10011&CID=TRANSUNION:HPB) (I was unable to find a one-time purchase option from TransUnion).
+
+### Research Status
+
+| Status  | *THIS CASE IS NOT VERIFIED* |
+| ------------- |------------- |
+| secondary research | :heavy_check_mark: |
+| primary research | :x: |
+| expert review | :x: |
+
+*Help make this a verified case! Check out the [Contributors Guidelines](https://github.com/samanthaburton/whose_data/blob/master/CONTRIBUTING.md) to learn how*
