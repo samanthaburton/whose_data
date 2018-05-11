@@ -24,3 +24,13 @@ If you have a Facebook account, you can
 As mentioned above, Facebook collects data about you -- such as your interactions with other websites and apps -- in addition to the content and information that you choose to post to the platform. 
 
 At this time, it does not appear that you are able to see the data Facebook collects about you in this way. However, some [Facebook users](https://twitter.com/halhod/status/984112272321761280) are currently trying to access this data about them.
+
+### Research Status
+
+| Status  | *THIS CASE IS NOT VERIFIED* |
+| ------------- |------------- |
+| secondary research | :heavy_check_mark: |
+| primary research | :x: |
+| expert review | :x: |
+
+*Help make this a verified case! Check out the [Contributors Guidelines](https://github.com/samanthaburton/whose_data/blob/master/CONTRIBUTING.md) to learn how*
