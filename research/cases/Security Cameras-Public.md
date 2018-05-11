@@ -10,3 +10,13 @@ This information applies to: "overt, general video surveillance by law enforceme
 You legally have the right to request access to any video footage of you, so long as this is possible without infringing on the privacy rights of other people in the footage.
 
 "People whose images are recorded should be able to request access to their recorded personal information. Under many privacy statutes, they have a right of access. Severing the personal information in a recording (including technological blurring or blocking of the identities of others) may be necessary to allow individual access. Policies and procedures should be designed to accommodate these requests."  ([Office of the Privacy Commissioner](https://www.priv.gc.ca/en/privacy-topics/public-safety-and-law-enforcement/vs_060301/))
+
+### Research Status
+
+| Status  | *THIS CASE IS NOT VERIFIED* |
+| ------------- |------------- |
+| secondary research | :heavy_check_mark: |
+| primary research | :x: |
+| expert review | :x: |
+
+*Help make this a verified case! Check out the [Contributors Guidelines](https://github.com/samanthaburton/whose_data/blob/master/CONTRIBUTING.md) to learn how*
