@@ -1,6 +1,6 @@
 # Credit report
 
-## Descrpition
+## Descripition
 **A credit report** contains information about every loan you've taken out in the last 6 years — information like how much you owe, what you limit is on each account, whether you've paid on time and what authorized vendors have accessed your file. [[source](http://www.cbc.ca/news/canada/how-to-check-your-credit-report-1.1185975)]
 
 **A credit rating _or_ credit score** is a mathematical formula that translates the data in the credit report into a three-digit number that lenders use to make credit decisions. The numbers go from 300 to 900. The higher the number, the better your score (and the more likely you are to get approved for a credit card or mortgage, and so on). Your credit score is not part of a regular credit report. [[source](http://www.cbc.ca/news/canada/how-to-check-your-credit-report-1.1185975)] 
