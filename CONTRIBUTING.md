@@ -23,7 +23,8 @@ You should also have a look at the [Project Roadmap](https://github.com/samantha
 #### I have an hour
 
 - [Open a new case](https://github.com/samanthaburton/whose_data/issues/13): do some desk/online research about a company or organization
-- [Help verify an open case](https://github.com/samanthaburton/whose_data/issues/25): contact the company or organization, to request more information or verification
+- [Do secondary research](https://github.com/samanthaburton/whose_data/issues/25): search online, to help find the information _Whose Data?_ is looking for.
+- [Do primary research](https://github.com/samanthaburton/whose_data/issues/40): contact an organization directly, to help find the information _Whose Data?_ is looking for.
 - [Are you a policy or legal expert?](https://github.com/samanthaburton/whose_data/issues/26) Help verify an open case by reviewing and sharing feedback
 - [Are you a journalist or advocate?](https://github.com/samanthaburton/whose_data/issues/22) Help improve the project, by sharing your feedback
 - [Are you a concerned Canadian?](https://github.com/samanthaburton/whose_data/issues/22) Help improve the project, by sharing your feedback
