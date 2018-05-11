@@ -26,3 +26,13 @@ _more via_
 - [Account Activity](https://www.google.com/settings/dashboard): see all the Google services you're using, and find more info about the data they're collecting about you
 - [Linked Services](https://security.google.com/settings/security/permissions): see all the applications and other services that are linked to you Google account
 - [Export Data](https://www.google.com/takeout): Export all your Google data (photos, emails, docs, etc)
+
+### Research Status
+
+| Status  | *THIS CASE IS NOT VERIFIED* |
+| ------------- |------------- |
+| secondary research | :heavy_check_mark: |
+| primary research | :x: |
+| expert review | :x: |
+
+*Help make this a verified case! Check out the [Contributors Guidelines](https://github.com/samanthaburton/whose_data/blob/master/CONTRIBUTING.md) to learn how*
