@@ -14,7 +14,7 @@ You should also have a look at the [Project Roadmap](https://github.com/samantha
 ## Ok, now you're ready! Here's how you can help right now:
 
 #### I have 2 minutes 
-:point_right: great options for 1st time contributors! :point_left:
+:point_right: _great options for 1st time contributors!_ :point_left:
 
 - [Tell us: what other companies, services, or organizations should we research?](https://github.com/samanthaburton/whose_data/issues/21)
 - [Tell us: what other questions about your data would you like us to research?](https://github.com/samanthaburton/whose_data/issues/20)
@@ -23,7 +23,7 @@ You should also have a look at the [Project Roadmap](https://github.com/samantha
 - Share _Whose Data?_ on social media - our website is [whosedata.ca](https://www.whosedata.ca)
 
 #### I have an hour
-Check out [the research that has been done so far](https://github.com/samanthaburton/whose_data/issues/38), and then...
+_Check out [the research that has been done so far](https://github.com/samanthaburton/whose_data/issues/38), and then..._
 
 - [Open a new case](https://github.com/samanthaburton/whose_data/issues/13): do some desk/online research about a company or organization
 - [Do secondary research](https://github.com/samanthaburton/whose_data/issues/25): search online, to help find the information _Whose Data?_ is looking for.
