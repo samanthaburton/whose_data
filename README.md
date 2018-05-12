@@ -51,6 +51,8 @@ We aim to have each case verified through 3 types of research:
 - [ ] primary research (aka contacting the company/organization directly)
 - [ ] expert review (aka feedback from an expert in the field, such as law or policy)
 
+You can [see all the research that has been done so far here!](https://github.com/samanthaburton/whose_data/issues/38)
+
 Once secondary research is available, a case can be put up on the website -- www.whosedata.ca -- but it won't be verified :white_check_mark: until 3/3 types of research have been completed.
 
 ## How can I help?
