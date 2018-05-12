@@ -12,7 +12,7 @@ _" If you need to access, update, or delete other personal information that we m
 _" We may reject a request for a number of reasons, including, for example, that the request risks the privacy of other users, requires technical efforts that are disproportionate to the request, is repetitive, or is unlawful."_
 
 ### Notes:
-[@ghulamusman] (https://github.com/ghulamusman) : "Once requested Snapchat provides data within a few minutes, it is unclear what kind of requests might be rejected by Snapchat. It is to be noted that the information is highly detailed and covers various categories. The data is provided in an intuitive way, in both html and json so no special software is required to view it."
+[@ghulamusman](https://github.com/ghulamusman) : "Once requested Snapchat provides data within a few minutes, it is unclear what kind of requests might be rejected by Snapchat. It is to be noted that the information is highly detailed and covers various categories. The data is provided in an intuitive way, in both html and json so no special software is required to view it."
 
 ### Research Status
 
