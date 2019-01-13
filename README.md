@@ -11,8 +11,8 @@ This repo will remain up for archival purposes, but no new work is underway.
 
 ## Summary of research findings
 
-| Do I legally own the data this org has about me?        | Can I see all the data they have about me, for free?           |
-| ------------- |:-------------:| -----:|
+| Soure | Do I legally own the data this org has about me? | Can I see all the data they have about me, for free?           |
+| ------------- |-------------| -----|
 | Phone records (Canada-wide) | Unclear | No |
 | Security cameras on public property      | Unclear      |   Yes |
 | Security cameras on private property | Unclear     |    Yes|
