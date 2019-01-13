@@ -61,7 +61,7 @@ We aim to have each case verified through 3 types of research:
 
 **You can [see all the research that has been done so far here!](https://github.com/samanthaburton/whose_data/issues/38)**
 
-Once secondary research is available, a case can be put up on the website -- www.whosedata.ca -- but it won't be verified :white_check_mark: until 3/3 types of research have been completed.
+A project won't be verified :white_check_mark: until 3/3 types of research have been completed.
 
 ## How can I help?
 Whose Data? is an open source project, and we need people like you to help grow and improve!
