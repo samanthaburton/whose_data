@@ -5,15 +5,23 @@ Whose Data? aims to make it easier for Canadians to answer key questions about w
 
 Thank you for visiting the Whose Data? project repository.
 
-This document (the README file) is the best place to get an overview of the project, and how to get involved.
+**Please note that this project is no longer active. [Find out why here.](https://medium.com/@SamBurton/why-im-closing-the-whose-data-project-dc6167ff145f)**
 
-**Please note that this is a new project, and lots more info is on the way!**
+This repo will remain up for archival purposes, but no new work is underway.
 
-* [What is this?](#what-is-this)
-* [How does it work?](#how-does-it-work)
-* [How can I help?](#how-can-i-help)
-* [Who are you?](#who-are-you)
-* [Code of Conduct](https://github.com/samanthaburton/whose_data/blob/master/CODE_OF_CONDUCT.md)
+## Summary of research findings
+
+| Do I legally own the data this org has about me?        | Can I see all the data they have about me, for free?           |
+| ------------- |:-------------:| -----:|
+| Phone records (Canada-wide) | Unclear | No |
+| Security cameras on public property      | Unclear      |   Yes |
+| Security cameras on private property | Unclear     |    Yes|
+| Personal medical records (Ontario) | Yes, but the physical record belongs to the person or organization responsible for its creation (eg. the hospital or physician) | No |
+| Google.ca | 	Yes, but you give Google a license 	| Yes
+| Facebook |  	Yes, but you give Facebook a license and there is some data you don’t own | 	Yes, but not all
+| Credit report 	| Unclear | 	Yes
+| Credit score |  	Unclear | 	No
+| Snapchat 	| Unclear | 	Yes, but they may reject a request
 
 ## What is this?
 
