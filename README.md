@@ -13,15 +13,15 @@ This repo will remain up for archival purposes, but no new work is underway.
 
 | Soure | Do I legally own the data this org has about me? | Can I see all the data they have about me, for free?           |
 | ------------- |-------------| -----|
-| Phone records (Canada-wide) | Unclear | No |
-| Security cameras on public property      | Unclear      |   Yes |
-| Security cameras on private property | Unclear     |    Yes|
-| Personal medical records (Ontario) | Yes, but the physical record belongs to the person or organization responsible for its creation (eg. the hospital or physician) | No |
-| Google.ca | 	Yes, but you give Google a license 	| Yes
-| Facebook |  	Yes, but you give Facebook a license and there is some data you don’t own | 	Yes, but not all
-| Credit report 	| Unclear | 	Yes
-| Credit score |  	Unclear | 	No
-| Snapchat 	| Unclear | 	Yes, but they may reject a request
+| [Phone Records](https://github.com/samanthaburton/whose_data/blob/master/cases/Phone%20Records.md) | Unclear | No |
+| [Security cameras on public property](https://github.com/samanthaburton/whose_data/blob/master/cases/Security%20Cameras-Public.md)      | Unclear      |   Yes |
+| [Security cameras on private property](https://github.com/samanthaburton/whose_data/blob/master/cases/Security%20Cameras-Private.md) | Unclear     |    Yes|
+| [Personal medical records (Ontario)](https://github.com/samanthaburton/whose_data/blob/master/cases/Personal%20Medical%20Records-Ontario.md) | Yes, but the physical record belongs to the person or organization responsible for its creation (eg. the hospital or physician) | No |
+| [Google](https://github.com/samanthaburton/whose_data/blob/master/cases/Google.md) | 	Yes, but you give Google a license 	| Yes
+| [Facebook](https://github.com/samanthaburton/whose_data/blob/master/cases/Facebook.md) |  	Yes, but you give Facebook a license and there is some data you don’t own | 	Yes, but not all
+| [Credit report](https://github.com/samanthaburton/whose_data/blob/master/cases/Credit%20Report.md) 	| Unclear | 	Yes
+| [Credit score](https://github.com/samanthaburton/whose_data/blob/master/cases/Credit%20Score.md) |  	Unclear | 	No
+| [Snapchat](https://github.com/samanthaburton/whose_data/blob/master/cases/Snapchat.md) 	| Unclear | 	Yes, but they may reject a request
 
 ## What is this?
 
